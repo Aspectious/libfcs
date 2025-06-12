@@ -1,0 +1,9 @@
+﻿{
+  "Name": "LibFCS",
+  "Author": "Aspectious",
+  "Version": "1.0.0",
+  "Description": "A C# library for SMAPI, because I got tired of writing Libraries.",
+  "UniqueID": "Aspectiousdev.libfcs",
+  "EntryDll": "libfcs.dll",
+  "MinimumApiVersion": "4.0.0"
+}
